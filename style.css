@@ -45,9 +45,11 @@ input{
 }
 img{
     text-align: center;
+    float: center;
 }
 #main-area{
     text-align: center;
+    float: center;
 }
 form{
     text-align: center;
