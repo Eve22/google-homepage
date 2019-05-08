@@ -44,8 +44,9 @@ input{
     border-radius: 5px;
 }
 img{
-    text-align: center;
-    float: center;
+    
+    
+    margin: 20px 504px;
 }
 #main-area{
     text-align: center;
@@ -73,6 +74,7 @@ span a{
 .content{
     width: 100%;
     height: 100%;
+    float: center;
 }
 html {
     height: 100%;
